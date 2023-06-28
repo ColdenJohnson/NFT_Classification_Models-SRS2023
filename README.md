@@ -1,4 +1,4 @@
-# Title [NFT Image Analysis]
+# NFT Image Analysis
 ## Project information
 - **Author**: [Colden][Johnson], [Computation and Design], [2026], Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
