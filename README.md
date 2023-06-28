@@ -18,6 +18,16 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ## Table of Contents
 - data
+  | File Name  | Variable Name | Description | Unit | Type |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Data_API.csv](https://github.com/SciEcon/SRS2023_NFT_Johnson/tree/main/data/Queried_Data)  | Null  | Null | Null | Null |
+|   | Null  | Null | Null | Null |
+|   | Null  | Null | Null | Null |
+|   | Null  | Null | Null | Null |
+|   | Null  | Null | Null | Null |
+|   | Null  | Null | Null | Null |
+
+
 - code
 - spotlight
 - more about the author
