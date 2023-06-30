@@ -36,10 +36,12 @@
 |   | Collection  | Corresponds to the collection to which the NFT belongs | Categorical (Collection) | str |
 |   | Category  | Category in which the NFT belongs. Examples are: Art, Games, etc. | Categorical (Category) | str |
 
+**Data Source:**
+Nadini, M., Alessandretti, L., Di Giacinto, F. et al. Mapping the NFT revolution: market trends, trade networks, and visual features. Sci Rep 11, 20902 (2021). https://doi.org/10.1038/s41598-021-00053-8
+
 - Data Source:
 - Queried Data
 - Processed Data
-- ...
 
 
 ## Code
