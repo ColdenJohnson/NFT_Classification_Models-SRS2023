@@ -26,7 +26,7 @@
 
 | File Name  | Variable Name | Description | Unit | Type |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Data_API.csv](https://github.com/SciEcon/SRS2023_NFT_Johnson/tree/main/data)  | Unique_id_collection  | Null | Null | Null |
+| [Data_API.csv](https://github.com/SciEcon/SRS2023_NFT_Johnson/tree/main/data)  | Unique_id_collection  | Unique ID for a given NFT | ID | int |
 |   | Price_crypto_USD  | Price of NFT at sale  | USD($) | int |
 |   | Seller_address  | Addresses for seller of NFT | address | int |
 |   | Buyer_address  | Addresses for buyers of NFT | address | int |
