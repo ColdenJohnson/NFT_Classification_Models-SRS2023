@@ -13,7 +13,6 @@
   - [Intellectual Merits and Practical impacts of your project.]
 
 ## Table of Contents
-- data
 
 | Contents | Description |
 |--------|--------|
@@ -27,11 +26,11 @@
 
 | File Name  | Variable Name | Description | Unit | Type |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Data_API.csv](https://github.com/SciEcon/SRS2023_NFT_Johnson/tree/main/data/Queried_Data)  | Null  | Null | Null | Null |
-|   | Null  | Null | Null | Null |
-|   | Null  | Null | Null | Null |
-|   | Null  | Null | Null | Null |
-|   | Null  | Null | Null | Null |
+| [Data_API.csv](https://github.com/SciEcon/SRS2023_NFT_Johnson/tree/main/data)  | Unique_id_collection  | Null | Null | Null |
+|   | Price_crypto  | Null | Null | Null |
+|   | Seller_address  | Null | Null | Null |
+|   | Buyer_address  | Null | Null | Null |
+|   | Datetime_updated  | Null | Null | Null |
 |   | Null  | Null | Null | Null |
 - Data Source:
 - Queried Data
