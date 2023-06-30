@@ -1,16 +1,12 @@
 # NFT Image Analysis
 ## Project information
-- **Author**: [Colden][Johnson], [Computation and Design], [2026], Duke Kunshan University
+- **Author**: Colden Johnson, Computation and Design, Class of 2026, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Final Project for [STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Disclaimer**: Submissions to SRS2023 Innovate are advised and instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Acknowledgments**: I am deeply indebted to Professor Luyao Zhang for her invaluable feedback and patience.
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
- 
-Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
-
   - [Application Scenario (Data Source)]
   - [Methodology]
   - [Results]
@@ -18,6 +14,10 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ## Table of Contents
 - data
+| File Name  | Variable Name | Description | Unit | Type |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Null  | Null  | Null | Null | Null |
+
   | File Name  | Variable Name | Description | Unit | Type |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Data_API.csv](https://github.com/SciEcon/SRS2023_NFT_Johnson/tree/main/data/Queried_Data)  | Null  | Null | Null | Null |
