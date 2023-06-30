@@ -14,6 +14,14 @@
 
 ## Table of Contents
 - data
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+
 | Contents | Description |
 |--------|--------|
 | [Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#Data) | View Raw and Processed Data Files |
@@ -24,8 +32,7 @@
 
 
 
-
-  | File Name  | Variable Name | Description | Unit | Type |
+| File Name  | Variable Name | Description | Unit | Type |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Data_API.csv](https://github.com/SciEcon/SRS2023_NFT_Johnson/tree/main/data/Queried_Data)  | Null  | Null | Null | Null |
 |   | Null  | Null | Null | Null |
