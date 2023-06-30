@@ -15,22 +15,15 @@
 ## Table of Contents
 - data
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
-
 | Contents | Description |
 |--------|--------|
-| [Data](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#Data) | View Raw and Processed Data Files |
-| [Code](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#Code) | View Jupyter Notebook Code Files |
-| [Spotlight](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#Spotlight) | View Generated Spotlight Figures |
-| [About the Author](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#more-about-the-author) | Read Author Bio and Project Background |
-| [References](https://github.com/Rising-Stars-by-Sunshine/ColdenJohnson-stats201-Final-Project/blob/main/README.md#References) | View References CSV File |
+| [Data](https://github.com/SciEcon/SRS2023_NFT_Johnson#data) | View Raw and Processed Data Files |
+| [Code](https://github.com/SciEcon/SRS2023_NFT_Johnson#code) | View Jupyter Notebook Code Files |
+| [Spotlight](https://github.com/SciEcon/SRS2023_NFT_Johnson#spotlight) | View Generated Spotlight Figures |
+| [About the Author](https://github.com/SciEcon/SRS2023_NFT_Johnson#more-about-the-author) | Read Author Bio and Project Background |
+| [References](https://github.com/SciEcon/SRS2023_NFT_Johnson#references) | View References CSV File |
 
-
+## Data
 
 | File Name  | Variable Name | Description | Unit | Type |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -40,16 +33,6 @@
 |   | Null  | Null | Null | Null |
 |   | Null  | Null | Null | Null |
 |   | Null  | Null | Null | Null |
-
-
-- code
-- spotlight
-- more about the author
-- references
-
-
-
-## Data
 - Data Source:
 - Queried Data
 - Processed Data
