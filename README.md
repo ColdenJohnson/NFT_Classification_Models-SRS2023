@@ -27,11 +27,15 @@
 | File Name  | Variable Name | Description | Unit | Type |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Data_API.csv](https://github.com/SciEcon/SRS2023_NFT_Johnson/tree/main/data)  | Unique_id_collection  | Null | Null | Null |
-|   | Price_crypto  | Null | Null | Null |
-|   | Seller_address  | Null | Null | Null |
-|   | Buyer_address  | Null | Null | Null |
-|   | Datetime_updated  | Null | Null | Null |
-|   | Null  | Null | Null | Null |
+|   | Price_crypto_USD  | Price of NFT at sale  | USD($) | int |
+|   | Seller_address  | Addresses for seller of NFT | address | int |
+|   | Buyer_address  | Addresses for buyers of NFT | address | int |
+|   | Datetime_updated  | Identifies transaction with daily resolution | days | DateTime |
+|   | Image_url_1  | URL to digital object associated with the NFT | URL | URL |
+|   | ID_token  | ID of the NFT asset within a given smart contract | ID | int |
+|   | Collection  | Corresponds to the collection to which the NFT belongs | Categorical (Collection) | str |
+|   | Category  | Category in which the NFT belongs. Examples are: Art, Games, etc. | Categorical (Category) | str |
+
 - Data Source:
 - Queried Data
 - Processed Data
