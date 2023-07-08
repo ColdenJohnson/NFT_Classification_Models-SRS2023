@@ -53,6 +53,17 @@ Nadini, M., Alessandretti, L., Di Giacinto, F. et al. Mapping the NFT revolution
 ## Spotlight
 - Posters
 - Figures
+![Figure_1](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/15862e2c-b465-4a5b-a512-7e99e7c05253)
+
+![Figure_2](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/bc4f4318-af5a-492c-b0a1-2c84e251a724)
+
+![Figure_3](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/7f8da240-93c4-4941-8ae7-d1b4c860ba99)
+
+![Figure_4](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/27530afc-269b-4b6f-a57e-ed5d7537e66a)
+
+![Figure_5](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/9e55440c-0bb6-4c5f-abdf-f0ef49115238)
+
+
 - Slides
 - Presentations
 - Review articles
