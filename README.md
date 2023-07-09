@@ -4,7 +4,13 @@
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to SRS2023 Innovate are advised and instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: I am deeply indebted to Professor Luyao Zhang for her invaluable feedback and patience.
-- **Project Summary**: 
+- **Project Summary**:
+Non-Fungible Tokens (NFTs) have gained significant popularity in recent years as a new form of digital asset. This article will focus on a dataset drawn from the article ‘\textit{Mapping the NFT revolution: market trends, trade networks, and visual features}’ (Nadini et al., 2021). This paper attempts to present a comprehensive analysis of NFT market data, combining data visualizations and image analysis.
+
+First, we create visualizations to explore NFT trading patterns, specifically focusing on the trading cost and frequency of different collections. Building upon insights gained from data visualization, we then use image analyis techniques to extract meaningful features from NFT artwork. We employ image descriptors to capture the unique visual characteristics of NFT images, with the goal to enable efficient comparison and analysis of digital artworks. We also use the linked dataset to extract features to develop a classification algorithm that can accurately classify NFT images into one of 6 predefined image categories. The algorithm facilitates automated categorization of artworks based on their artistic style, image components, and other relevant criteria. To validate the effectiveness of our approach, we look at error rates using a test dataset of images, with the goal being to gauge accuracy of the proposed image descriptors and classification algorithm.
+
+Combining data visualization and image analysis techniques helps gain valuable insights into the NFT market. The proposed approach is valuable in helping understand market dynamics and trends, understand image descriptors, and automatically classify NFT images.
+
   - [Summarize the Background/Motivation]
   - [Research Questions]
   - [Application Scenario (Data Source)]
