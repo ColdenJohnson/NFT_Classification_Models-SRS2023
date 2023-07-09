@@ -70,8 +70,11 @@ Nadini, M., Alessandretti, L., Di Giacinto, F. et al. Mapping the NFT revolution
 - Media appearance
 
 ## More about the Author
-- headshot
-- self-introduction
+![Johnson_Colden_Headshot_Compressed](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/a0b67354-b261-4375-9d60-35a8bf61eddf)
+
+My name is Colden Johnson, I am a rising Sophomore student at Duke Kunshan University. I am considering a major in either Political Economy or Computation and Design with a track in Computer Science. My current research goals lie at the intersection of these two fields, and I am specifically interested in applying artificial intelligence and computation to address questions in the humanities.
+
+
 - Final reflections 
   - intellectual growth
   - professional growth
