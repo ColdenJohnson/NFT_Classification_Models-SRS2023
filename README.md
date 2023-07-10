@@ -3,7 +3,7 @@
 - **Author**: Colden Johnson, Computation and Design, Class of 2026, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to SRS2023 Innovate are advised and instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: I am deeply indebted to Professor Luyao Zhang for her invaluable feedback and patience.
+- **Acknowledgments**: I am deeply indebted to Professor Luyao Zhang for her invaluable feedback and patience. I am also thankful to both Yiyang Zhang and Jiayi Wang for their constructive review and commentary.
 - **Project Summary**:
 
 Non-Fungible Tokens (NFTs) have gained significant popularity in recent years as a new form of digital asset. This article will focus on a dataset drawn from the article '_Mapping the NFT revolution: market trends, trade networks, and visual features_’ (Nadini et al., 2021). This paper attempts to present a comprehensive analysis of NFT market data, combining data visualizations and image analysis.
