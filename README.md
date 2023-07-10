@@ -6,18 +6,11 @@
 - **Acknowledgments**: I am deeply indebted to Professor Luyao Zhang for her invaluable feedback and patience.
 - **Project Summary**:
 
-Non-Fungible Tokens (NFTs) have gained significant popularity in recent years as a new form of digital asset. This article will focus on a dataset drawn from the article ‘\textit{Mapping the NFT revolution: market trends, trade networks, and visual features}’ (Nadini et al., 2021). This paper attempts to present a comprehensive analysis of NFT market data, combining data visualizations and image analysis.
+Non-Fungible Tokens (NFTs) have gained significant popularity in recent years as a new form of digital asset. This article will focus on a dataset drawn from the article '_Mapping the NFT revolution: market trends, trade networks, and visual features_’ (Nadini et al., 2021). This paper attempts to present a comprehensive analysis of NFT market data, combining data visualizations and image analysis.
 
 First, we create visualizations to explore NFT trading patterns, specifically focusing on the trading cost and frequency of different collections. Building upon insights gained from data visualization, we then use image analyis techniques to extract meaningful features from NFT artwork. We employ image descriptors to capture the unique visual characteristics of NFT images, with the goal to enable efficient comparison and analysis of digital artworks. We also use the linked dataset to extract features to develop a classification algorithm that can accurately classify NFT images into one of 6 predefined image categories. The algorithm facilitates automated categorization of artworks based on their artistic style, image components, and other relevant criteria. To validate the effectiveness of our approach, we look at error rates using a test dataset of images, with the goal being to gauge accuracy of the proposed image descriptors and classification algorithm.
 
 Combining data visualization and image analysis techniques helps gain valuable insights into the NFT market. The proposed approach is valuable in helping understand market dynamics and trends, understand image descriptors, and automatically classify NFT images.
-
-  - [Summarize the Background/Motivation]
-  - [Research Questions]
-  - [Application Scenario (Data Source)]
-  - [Methodology]
-  - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
 
 ## Table of Contents
 
@@ -61,15 +54,19 @@ Nadini, M., Alessandretti, L., Di Giacinto, F. et al. Mapping the NFT revolution
 - Posters
 - Figures
 ![Figure_1](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/15862e2c-b465-4a5b-a512-7e99e7c05253)
+Figure 1: Average price in USD by collection. Note that this is a metric of average trading price, and not of total market cap.
 
 ![Figure_2](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/bc4f4318-af5a-492c-b0a1-2c84e251a724)
+Figure 2: Average price in USD filtered by category. Categories are Metaverse, Utility, Art, Collectible, Games, and Other. This visualization only includes queried data and is not a truly accurate or proportional representation of the overall NFT market. For example, because all NFTs in the 'Gods Unchained' ecosystem have been queried, this has shifted the reflected average price and is not representative of, say, the average price of 'Gaming' type NFTs on OpenSea.
 
 ![Figure_3](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/7f8da240-93c4-4941-8ae7-d1b4c860ba99)
+Figure 3: Average price in USD by market. Note that filtering by market often results in different average and median NFT category valuations. For example, the high trading price of 'Decentraland' inflates the average valuation of 'Metaverse' NFTs, and the relatively low value of 'Gods Unchained' deflates the average value of 'Gaming' NFTs.
 
 ![Figure_4](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/27530afc-269b-4b6f-a57e-ed5d7537e66a)
+Figure 4: Average price in USD over time. This is measured by NFTs traded, grouped by week. Grouping by day does not significantly change the graph, and grouping by hour or minute creates misleading price fluctuation.
 
 ![Figure_5](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/9e55440c-0bb6-4c5f-abdf-f0ef49115238)
-
+Figure 5: Average trading price in USD over time. Three similar categories, Metaverse, Art, and Collectible are simultaneously displayed.
 
 - Slides
 - Presentations
@@ -92,7 +89,8 @@ My name is Colden Johnson, I am a rising Sophomore student at Duke Kunshan Unive
 ## References
 
 ### Data Source
-- Data Source Title and URL
+Nadini, M., Alessandretti, L., Di Giacinto, F. et al. Mapping the NFT revolution: market trends, trade networks, and visual features. Sci Rep 11, 20902 (2021). https://doi.org/10.1038/s41598-021-00053-8
+
 ### Code Source
 - Code Source Title and URL
 ### Articles
