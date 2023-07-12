@@ -54,7 +54,8 @@ Nadini, M., Alessandretti, L., Di Giacinto, F. et al. Mapping the NFT revolution
 - Figures
 
 ![Figure 1](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/1d387679-6f5b-4526-ad58-0c025548c707)
-Figure 2: NFT Category graphed against NFT Market. Notice the relative dominance of OpenSea in terms of trading volume, and the comparative frequencies of NFT types.
+
+Figure 1: NFT Category graphed against NFT Market. Notice the relative dominance of OpenSea in terms of trading volume, and the comparative frequencies of NFT types.
 
 
 ![Figure_2](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/15862e2c-b465-4a5b-a512-7e99e7c05253)
