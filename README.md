@@ -52,20 +52,24 @@ Nadini, M., Alessandretti, L., Di Giacinto, F. et al. Mapping the NFT revolution
 ## Spotlight
 - Posters
 - Figures
-![Figure_1](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/15862e2c-b465-4a5b-a512-7e99e7c05253)
-Figure 1: Average price in USD by collection. Note that this is a metric of average trading price, and not of total market cap.
+![Figure 1](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/1d387679-6f5b-4526-ad58-0c025548c707)
+Figure 2: NFT Category graphed against NFT Market. Notice the relative dominance of OpenSea in terms of trading volume, and the comparative frequencies of NFT types.
 
-![Figure_2](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/bc4f4318-af5a-492c-b0a1-2c84e251a724)
-Figure 2: Average price in USD filtered by category. Categories are Metaverse, Utility, Art, Collectible, Games, and Other. This visualization only includes queried data and is not a truly accurate or proportional representation of the overall NFT market. For example, because all NFTs in the 'Gods Unchained' ecosystem have been queried, this has shifted the reflected average price and is not representative of, say, the average price of 'Gaming' type NFTs on OpenSea.
 
-![Figure_3](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/7f8da240-93c4-4941-8ae7-d1b4c860ba99)
-Figure 3: Average price in USD by market. Note that filtering by market often results in different average and median NFT category valuations. For example, the high trading price of 'Decentraland' inflates the average valuation of 'Metaverse' NFTs, and the relatively low value of 'Gods Unchained' deflates the average value of 'Gaming' NFTs.
+![Figure_2](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/15862e2c-b465-4a5b-a512-7e99e7c05253)
+Figure 2: Average price in USD by collection. Note that this is a metric of average trading price, and not of total market cap.
 
-![Figure_4](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/27530afc-269b-4b6f-a57e-ed5d7537e66a)
-Figure 4: Average price in USD over time. This is measured by NFTs traded, grouped by week. Grouping by day does not significantly change the graph, and grouping by hour or minute creates misleading price fluctuation.
+![Figure_3](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/bc4f4318-af5a-492c-b0a1-2c84e251a724)
+Figure 3: Average price in USD filtered by category. Categories are Metaverse, Utility, Art, Collectible, Games, and Other. This visualization only includes queried data and is not a truly accurate or proportional representation of the overall NFT market. For example, because all NFTs in the 'Gods Unchained' ecosystem have been queried, this has shifted the reflected average price and is not representative of, say, the average price of 'Gaming' type NFTs on OpenSea.
 
-![Figure_5](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/9e55440c-0bb6-4c5f-abdf-f0ef49115238)
-Figure 5: Average trading price in USD over time. Three similar categories, Metaverse, Art, and Collectible are simultaneously displayed.
+![Figure_4](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/7f8da240-93c4-4941-8ae7-d1b4c860ba99)
+Figure 4: Average price in USD by market. Note that filtering by market often results in different average and median NFT category valuations. For example, the high trading price of 'Decentraland' inflates the average valuation of 'Metaverse' NFTs, and the relatively low value of 'Gods Unchained' deflates the average value of 'Gaming' NFTs.
+
+![Figure_5](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/27530afc-269b-4b6f-a57e-ed5d7537e66a)
+Figure 5: Average price in USD over time. This is measured by NFTs traded, grouped by week. Grouping by day does not significantly change the graph, and grouping by hour or minute creates misleading price fluctuation.
+
+![Figure_6](https://github.com/SciEcon/SRS2023_NFT_Johnson/assets/118926209/9e55440c-0bb6-4c5f-abdf-f0ef49115238)
+Figure 6: Average trading price in USD over time. Three similar categories, Metaverse, Art, and Collectible are simultaneously displayed.
 
 - Slides
 - Presentations
